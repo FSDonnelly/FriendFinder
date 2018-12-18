@@ -4,7 +4,7 @@ var path = require("path");
 var bodyParser = require('body-parser');
 // Configure the Express application
 var app = express();
-var PORT = process.env.PORT;
+var PORT = process.env.PORT || 8081;
 
 // Expose the public directory to access CSS files
 app.use(express.static(path.join(__dirname, './app/public')));
