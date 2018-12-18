@@ -1,7 +1,7 @@
 # FriendFinder
 Friend Finder - Node and Express Servers
 
-To Access this Marvel's Friend Finder website go to: "https://rocky-atoll-96953.herokuapp.com/survey"
+To Access this Marvel's Friend Finder website go to: "https://rocky-atoll-96953.herokuapp.com"
 
 Overview
 
